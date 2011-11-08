@@ -3,4 +3,4 @@
 ## May help a few if you're trying to do basic things
 
 #Sources 
-##Some part of the code may come from Learning XNA 4.0 from O'Reilly and a few websites. Nothing bad was intended. If there's something please contact me and I will remove it !
+##Some part of the code may come from Learning XNA 4.0 from O'Reilly and a few websites. Most of it is from myself...
