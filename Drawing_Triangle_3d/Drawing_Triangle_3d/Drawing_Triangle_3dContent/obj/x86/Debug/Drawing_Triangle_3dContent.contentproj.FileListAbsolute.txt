@@ -1,0 +1,1 @@
+C:\lan_project\XNA-Test-Projects\Drawing_Triangle_3d\Drawing_Triangle_3d\Drawing_Triangle_3dContent\obj\x86\Debug\ResolveAssemblyReference.cache

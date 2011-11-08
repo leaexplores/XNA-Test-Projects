@@ -1,0 +1,6 @@
+C:\lan_project\XNA-Test-Projects\Drawing_Triangle_3d\Drawing_Triangle_3d\Drawing_Triangle_3d\bin\x86\Debug\Drawing_Triangle_3d.exe
+C:\lan_project\XNA-Test-Projects\Drawing_Triangle_3d\Drawing_Triangle_3d\Drawing_Triangle_3d\bin\x86\Debug\Drawing_Triangle_3d.pdb
+C:\lan_project\XNA-Test-Projects\Drawing_Triangle_3d\Drawing_Triangle_3d\Drawing_Triangle_3d\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\lan_project\XNA-Test-Projects\Drawing_Triangle_3d\Drawing_Triangle_3d\Drawing_Triangle_3d\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\lan_project\XNA-Test-Projects\Drawing_Triangle_3d\Drawing_Triangle_3d\Drawing_Triangle_3d\obj\x86\Debug\Drawing_Triangle_3d.exe
+C:\lan_project\XNA-Test-Projects\Drawing_Triangle_3d\Drawing_Triangle_3d\Drawing_Triangle_3d\obj\x86\Debug\Drawing_Triangle_3d.pdb
